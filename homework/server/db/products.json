@@ -1,0 +1,26 @@
+[
+  {
+    "id_product": 124,
+    "product_name": "For dogs",
+    "price": 1600,
+    "img": "./img/dogs.jpg"
+  },
+  {
+    "id_product": 457,
+    "product_name": "For cats",
+    "price": 3000,
+    "img": "./img/cats.jpg"
+  },
+  {
+    "id_product": 123,
+    "product_name": "For rodents",
+    "price": 45600,
+    "img": "./img/rodents.jpg"
+  },
+  {
+    "id_product": 456,
+    "product_name": "For birds",
+    "price": 1000,
+    "img": "./img/birds.jpeg"
+  }
+]
